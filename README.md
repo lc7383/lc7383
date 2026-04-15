@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Laurie DeVries 👋
 
-<!--
-**lc7383/lc7383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Data Scientist with 6+ years of experience turning complex data into actionable insights. Based in Boston, MA.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Languages:** Python, SQL
+- **Analytics & Visualization:** Power BI, Statistics, Pandas, NumPy, Matplotlib
+- **Machine Learning:** Scikit-learn, Predictive Modeling, Statistical Analysis
+- **Other:** Streamlit, Git, Data Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **[Stock Analysis Bot](https://github.com/lc7383/stock-analysis-bot)** — An AI-powered stock analysis dashboard built with Python and Streamlit, providing real-time market insights and data visualization
+
+## 📫 Let's Connect
+- 💼 Open to Senior Data Scientist and ML Engineer roles in Boston
+- 📧 Reach me via [LinkedIn](#) ← (paste your LinkedIn URL here)
