@@ -13,4 +13,4 @@ I'm a Senior Data Scientist with 6+ years of experience turning complex data int
 
 ## 📫 Let's Connect
 - 💼 Open to Senior Data Scientist and ML Engineer roles in Boston
-- 📧 Reach me via [LinkedIn](#) ← (paste your LinkedIn URL here)
+- 📧 Reach me via https://www.linkedin.com/in/laurie-c-devries/
